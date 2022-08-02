@@ -34,6 +34,11 @@ Dart and flutter technology has been used to develop this college UI app. It has
 ### 3. [APK](https://drive.google.com/file/d/1Kgn-p9k6Yu6M-eNCZHZtq9m0jB0TiTzO/view?usp=sharing)
 
 
-##FEATURES:
+## FEATURES:
 1. THE APPLICATION DEVELOPED IS RESPONSIVE
 2. REAL TIME DATABASE CONNECTIVITY WITH FIREBASE (screenshots:[here](https://drive.google.com/file/d/1R95su3Y1VA8rkSKNMbyHFqPW5q0PyDZb/view?usp=sharing) and [here](https://drive.google.com/file/d/1pgcWS4r1o-gkr2E29keVoZq72r5srKXu/view?usp=sharing) )
+
+## APP SCREENSHOTS
+### Splash Screen
+
+

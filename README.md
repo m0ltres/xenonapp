@@ -7,18 +7,26 @@ steps to access the source code:
 
 1. For emulator/physical device
 	a. open the xenonapp folder by vscode or android studio. 
+	
 	b. Kindly make sure that flutter and dart has been updated
+	
 	c. connect the emulator/physical device
+	
 	d. open terminal, go to file directory of xenonapp
+	
 	e. write command: flutter run
+	
 	f. allow the install permission on your physical device.
 
 	([Physical device screen recording](https://drive.google.com/file/d/1JIsdgztnoNbc_TIXsTGUId74wvXidXSb/view?usp=sharing))
 
 2. for web browser:
 	a. Open the xenonapp folder by vscode or android studio. 
+	
 	b. Kindly make sure that flutter and dart has been updated
+	
 	c. write command: "flutter run
+	
 	d. select the option for chrome
 
 	(for reference kindly watch the [recording](https://drive.google.com/file/d/1E68D9vJl3dsDOT16R1Hn9J6qGUDrP2Pz/view?usp=sharing))

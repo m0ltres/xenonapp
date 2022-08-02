@@ -40,5 +40,21 @@ Dart and flutter technology has been used to develop this college UI app. It has
 
 ## APP SCREENSHOTS
 ### Splash Screen
+![WhatsApp Image 2022-08-02 at 8 50 33 AM](https://user-images.githubusercontent.com/66269179/182286391-a83dc834-ceaa-4f16-8736-c2734e91bf39.jpeg)
+
+### Sign In 
+![WhatsApp Image 2022-08-02 at 8 50 33 AM (1)](https://user-images.githubusercontent.com/66269179/182286535-22eff66a-0b12-4150-8e9a-dfe832cd49e3.jpeg)
+
+### Sign UP
+![WhatsApp Image 2022-08-02 at 8 50 34 AM](https://user-images.githubusercontent.com/66269179/182286604-9475cc3b-e8a1-43ad-9634-140f3528e258.jpeg)
+
+### Home Screen
+![WhatsApp Image 2022-08-02 at 8 50 34 AM (1)](https://user-images.githubusercontent.com/66269179/182286769-e00486cb-f534-405d-a68c-24a5bac30168.jpeg)
+
+### Contact Us
+![WhatsApp Image 2022-08-02 at 8 50 34 AM (2)](https://user-images.githubusercontent.com/66269179/182287333-6695c818-6931-471a-bf92-8d06499a91e0.jpeg)
+
+
+
 
 

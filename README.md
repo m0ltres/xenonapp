@@ -8,31 +8,30 @@ Dart and flutter technology has been used to develop this college UI app. It has
 
 ## steps to build source code locally:
 
-### 1. For emulator/physical device
-	a. open the xenonapp folder by vscode or android studio. 
+# 1. For emulator/physical device
+a. open the xenonapp folder by vscode or android studio. 
 	
-	b. Kindly make sure that flutter and dart has been updated.
+b. Kindly make sure that flutter and dart has been updated.
 	
-	c. connect the emulator/physical device.
+c. connect the emulator/physical device.
 	
-	d. open terminal, go to file directory of xenonapp.
+d. open terminal, go to file directory of xenonapp.
 	
-	e. write command: "flutter run".
+e. write command: "flutter run".
 	
-	f. allow the install permission on your physical device.
+f. allow the install permission on your physical device.
 
-	([Physical device screen recording](https://drive.google.com/file/d/1JIsdgztnoNbc_TIXsTGUId74wvXidXSb/view?usp=sharing))
+([Physical device screen recording](https://drive.google.com/file/d/1JIsdgztnoNbc_TIXsTGUId74wvXidXSb/view?usp=sharing))
 
-### 2. For web browser:
-	a. Open the xenonapp folder by vscode or android studio. 
+# 2. For web browser:
+a. Open the xenonapp folder by vscode or android studio. 
 	
-	b. Kindly make sure that flutter and dart has been updated
+b. Kindly make sure that flutter and dart has been updated
 	
-	c. write command: "flutter run'.
+c. write command: "flutter run'.
 	
-	d. select the option for chrome.
-
-	(for reference kindly watch the [recording](https://drive.google.com/file/d/1E68D9vJl3dsDOT16R1Hn9J6qGUDrP2Pz/view?usp=sharing))
+d. select the option for chrome.
+(for reference kindly watch the [recording](https://drive.google.com/file/d/1E68D9vJl3dsDOT16R1Hn9J6qGUDrP2Pz/view?usp=sharing))
 
 
 

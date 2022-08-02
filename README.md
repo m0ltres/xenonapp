@@ -3,7 +3,10 @@ Email Id: 2019pcecskinjal79@poornima.org
 
 Dart and flutter technology has been used to develop this college UI app. It has realtime database connectivity using FIREBASE.
 
-## steps to access the source code:
+## 1. [APK](https://drive.google.com/file/d/1Kgn-p9k6Yu6M-eNCZHZtq9m0jB0TiTzO/view?usp=sharing)
+## 2. Hosted Website: https://xenonauthproject.web.app
+
+## steps to build source code locally:
 
 ### 1. For emulator/physical device
 	a. open the xenonapp folder by vscode or android studio. 
@@ -31,7 +34,7 @@ Dart and flutter technology has been used to develop this college UI app. It has
 
 	(for reference kindly watch the [recording](https://drive.google.com/file/d/1E68D9vJl3dsDOT16R1Hn9J6qGUDrP2Pz/view?usp=sharing))
 
-### 3. [APK](https://drive.google.com/file/d/1Kgn-p9k6Yu6M-eNCZHZtq9m0jB0TiTzO/view?usp=sharing)
+
 
 
 ## FEATURES:
